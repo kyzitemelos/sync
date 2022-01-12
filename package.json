@@ -70,7 +70,7 @@
     "lru-cache": "^5.1.1",
     "protobufjs": "^6.8.0",
     "raven": "^0.12.3",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "request": "^2.79.0",
     "tweetnacl": "^1.0.0",
     "useragent": "^2.3.0",
